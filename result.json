@@ -1,0 +1,227 @@
+{
+  "__typename": "XDTGraphVideo",
+  "__isXDTGraphMediaInterface": "XDTGraphVideo",
+  "id": "3135870261135649735",
+  "shortcode": "CuE2WNQs6vH",
+  "thumbnail_src": "https://instagram.fbsb9-1.fna.fbcdn.net/v/t51.2885-15/356620519_569698281778078_3265367680347444031_n.jpg?stp=c0.280.720.720a_dst-jpg_e15_s640x640&_nc_ht=instagram.fbsb9-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=JKk06G6HphcQ7kNvgE2XHHP&_nc_gid=536c4887760b49fa879f5984b826cf1e&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYBNLlVXwQHffnZbonMhhESvHMt-I6uti85gOZXb66L7NQ&oe=6715A9AC&_nc_sid=d885a2",
+  "dimensions": {
+    "height": 1333,
+    "width": 750
+  },
+  "gating_info": null,
+  "fact_check_overall_rating": null,
+  "fact_check_information": null,
+  "sensitivity_friction_info": null,
+  "sharing_friction_info": {
+    "should_have_sharing_friction": false,
+    "bloks_app_url": null
+  },
+  "media_overlay_info": null,
+  "media_preview": "ABgqqvHHEMj8TmqEkgPSrVymfx5qu8DIpbAxwM59aleZbXSxVHWirCW7Fd5/AetFWtQUTXFsmDwfu8cnrg5IBOT26celSxwoVwyknIOOemB+fJP/AOqucyTzmlDEdz+dRYSdjpLiKNh0xtyRyeeCBj8SDkdcelFc0WJoppWDmfcmkTqyjABwfrUFacYBEoPIwT+tZdMkQ+tFKaKAP//Z",
+  "display_url": "https://instagram.fbsb9-1.fna.fbcdn.net/v/t51.2885-15/356620519_569698281778078_3265367680347444031_n.jpg?stp=dst-jpg_e15&_nc_ht=instagram.fbsb9-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=JKk06G6HphcQ7kNvgE2XHHP&_nc_gid=536c4887760b49fa879f5984b826cf1e&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYDWPu1AwG9tIRpBVQCajJIDvk-mNTEBrcTO9Y5vy_XfwA&oe=6715A9AC&_nc_sid=d885a2",
+  "display_resources": [
+    {
+      "src": "https://instagram.fbsb9-1.fna.fbcdn.net/v/t51.2885-15/356620519_569698281778078_3265367680347444031_n.jpg?stp=dst-jpg_e15_p640x640&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi43MjB4MTI4MC5zZHIuZjM2MzI5LmRlZmF1bHRfY292ZXJfZnJhbWUifQ&_nc_ht=instagram.fbsb9-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=JKk06G6HphcQ7kNvgE2XHHP&_nc_gid=536c4887760b49fa879f5984b826cf1e&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYDa0i2bZa5KK1JPOg9RKr78O2fia2H0K6P9mF1uqHtgGA&oe=6715A9AC&_nc_sid=d885a2",
+      "config_width": 640,
+      "config_height": 1137
+    },
+    {
+      "src": "https://instagram.fbsb9-1.fna.fbcdn.net/v/t51.2885-15/356620519_569698281778078_3265367680347444031_n.jpg?stp=dst-jpg_e15&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi43MjB4MTI4MC5zZHIuZjM2MzI5LmRlZmF1bHRfY292ZXJfZnJhbWUifQ&_nc_ht=instagram.fbsb9-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=JKk06G6HphcQ7kNvgE2XHHP&_nc_gid=536c4887760b49fa879f5984b826cf1e&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYDWPu1AwG9tIRpBVQCajJIDvk-mNTEBrcTO9Y5vy_XfwA&oe=6715A9AC&_nc_sid=d885a2",
+      "config_width": 750,
+      "config_height": 1333
+    },
+    {
+      "src": "https://instagram.fbsb9-1.fna.fbcdn.net/v/t51.2885-15/356620519_569698281778078_3265367680347444031_n.jpg?stp=dst-jpg_e15&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi43MjB4MTI4MC5zZHIuZjM2MzI5LmRlZmF1bHRfY292ZXJfZnJhbWUifQ&_nc_ht=instagram.fbsb9-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=JKk06G6HphcQ7kNvgE2XHHP&_nc_gid=536c4887760b49fa879f5984b826cf1e&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYDWPu1AwG9tIRpBVQCajJIDvk-mNTEBrcTO9Y5vy_XfwA&oe=6715A9AC&_nc_sid=d885a2",
+      "config_width": 1080,
+      "config_height": 1920
+    }
+  ],
+  "accessibility_caption": null,
+  "dash_info": {
+    "is_dash_eligible": false,
+    "video_dash_manifest": null,
+    "number_of_qualities": 0
+  },
+  "has_audio": true,
+  "video_url": "https://instagram.fbsb9-1.fna.fbcdn.net/o1/v/t16/f1/m82/E045681E1CC9D7EBE5B3FC8959847099_video_dashinit.mp4?stp=dst-mp4&efg=eyJxZV9ncm91cHMiOiJbXCJpZ193ZWJfZGVsaXZlcnlfdnRzX290ZlwiXSIsInZlbmNvZGVfdGFnIjoidnRzX3ZvZF91cmxnZW4uY2xpcHMuYzIuNzIwLmJhc2VsaW5lIn0&_nc_cat=104&vs=147670578331353_3384312258&_nc_vs=HBksFQIYT2lnX3hwdl9yZWVsc19wZXJtYW5lbnRfcHJvZC9FMDQ1NjgxRTFDQzlEN0VCRTVCM0ZDODk1OTg0NzA5OV92aWRlb19kYXNoaW5pdC5tcDQVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dQY2tUUld4NmRWdzVIOEFBUFFfUUg3SkFyNDlicV9FQUFBRhUCAsgBACgAGAAbABUAACaOp6O6soDWPxUCKAJDMywXQFZAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HAA%3D%3D&ccb=9-4&oh=00_AYC7UFth_ZFxdNOr_SHtjnh-5oeJmaoQYft-PwuDLNLMtg&oe=67118E96&_nc_sid=d885a2",
+  "video_view_count": 97621,
+  "video_play_count": 240417,
+  "encoding_status": null,
+  "is_published": true,
+  "product_type": "clips",
+  "title": "",
+  "video_duration": 89.0,
+  "clips_music_attribution_info": {
+    "artist_name": "google",
+    "song_name": "Original audio",
+    "uses_original_audio": true,
+    "should_mute_audio": false,
+    "should_mute_audio_reason": "",
+    "audio_id": "1176493020409811"
+  },
+  "is_video": true,
+  "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNTM2YzQ4ODc3NjBiNDlmYTg3OWY1OTg0YjgyNmNmMWUzMTM1ODcwMjYxMTM1NjQ5NzM1In0sInNpZ25hdHVyZSI6IiJ9",
+  "upcoming_event": null,
+  "edge_media_to_tagged_user": {
+    "edges": []
+  },
+  "owner": {
+    "id": "1067259270",
+    "username": "google",
+    "is_verified": true,
+    "profile_pic_url": "https://instagram.fbsb9-1.fna.fbcdn.net/v/t51.2885-19/425391724_2454717941393726_7200817596193793590_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fbsb9-1.fna.fbcdn.net&_nc_cat=1&_nc_ohc=-KFiuHvwlI8Q7kNvgF0TvTB&_nc_gid=536c4887760b49fa879f5984b826cf1e&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYCqWqK3cqOdIKiDEvJIm-Al6LRM_g6IQFzqyfkTqSuImA&oe=67159F9C&_nc_sid=d885a2",
+    "blocked_by_viewer": false,
+    "restricted_by_viewer": null,
+    "followed_by_viewer": false,
+    "full_name": "Google",
+    "has_blocked_viewer": false,
+    "is_embeds_disabled": false,
+    "is_private": false,
+    "is_unpublished": false,
+    "requested_by_viewer": false,
+    "pass_tiering_recommendation": true,
+    "edge_owner_to_timeline_media": {
+      "count": 2558
+    },
+    "edge_followed_by": {
+      "count": 15287850
+    }
+  },
+  "edge_media_to_caption": {
+    "edges": [
+      {
+        "node": {
+          "created_at": "1688045383",
+          "text": "Introducing Ballroom in Focus, the largest digital archive of Ballroom history, curated in collaboration with  @destinationtomorrow452, Ballroom Throwbacks and @googleartsculture. The project pays tribute to the cultural power of the Black and Latino LGBTQ+ communities that made Ballroom an expression of freedom and belonging. \nTap the link in our bio to explore more than 25 stories and nearly 1,500 never-before-seen images.",
+          "id": "17987229557150639"
+        }
+      }
+    ]
+  },
+  "can_see_insights_as_brand": false,
+  "caption_is_edited": false,
+  "has_ranked_comments": false,
+  "like_and_view_counts_disabled": false,
+  "edge_media_to_parent_comment": {
+    "count": 135,
+    "page_info": {
+      "has_next_page": true,
+      "end_cursor": "{\"server_cursor\": \"QVFEMUsyT0RTelVibDFJVHp6R2k4Smd1REdoSTJrUGlaRGhmYnM2a3ZNSlp6ejNKS29pWE80dkZkNl85T3luN0EyUWpIa0JZU2phZU1fT19Pc3lvTjZVTg==\", \"is_server_cursor_inverse\": true}"
+    },
+    "edges": [
+      {
+        "node": {
+          "id": "17985418223197035",
+          "text": "BODIES 😍",
+          "created_at": 1689948354,
+          "did_report_as_spam": false,
+          "owner": {
+            "id": "303830894",
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fbsb9-1.fna.fbcdn.net/v/t51.2885-19/442678018_456709010361453_3400188484037639835_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fbsb9-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=12M1LvjqxagQ7kNvgFP4abv&_nc_gid=536c4887760b49fa879f5984b826cf1e&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYAtUxv5qvLFyrlQqbFkcAMq-Ko5WNC1qnY4DL4EhSMCng&oe=67158B36&_nc_sid=d885a2",
+            "username": "welfarehustler"
+          },
+          "viewer_has_liked": false,
+          "edge_liked_by": {
+            "count": 0
+          },
+          "is_restricted_pending": false,
+          "edge_threaded_comments": {
+            "count": 0,
+            "page_info": {
+              "has_next_page": false,
+              "end_cursor": null
+            },
+            "edges": []
+          }
+        }
+      },
+      {
+        "node": {
+          "id": "17994214286020335",
+          "text": "Uzbek sila",
+          "created_at": 1688834781,
+          "did_report_as_spam": false,
+          "owner": {
+            "id": "58346689764",
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fbsb9-1.fna.fbcdn.net/v/t51.2885-19/461737281_8762996317043958_93289620757132431_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fbsb9-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=HZUOggDMXboQ7kNvgH_4BNW&_nc_gid=536c4887760b49fa879f5984b826cf1e&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYC4Y_jvcTK8zUE3B3z9CF-pcWyeA8IoA9dn2pxYAqrzqA&oe=67158828&_nc_sid=d885a2",
+            "username": "axiy.musl1m"
+          },
+          "viewer_has_liked": false,
+          "edge_liked_by": {
+            "count": 0
+          },
+          "is_restricted_pending": false,
+          "edge_threaded_comments": {
+            "count": 0,
+            "page_info": {
+              "has_next_page": false,
+              "end_cursor": null
+            },
+            "edges": []
+          }
+        }
+      },
+      {
+        "node": {
+          "id": "17985269198503094",
+          "text": "que asco",
+          "created_at": 1688453601,
+          "did_report_as_spam": false,
+          "owner": {
+            "id": "40681612105",
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-19/44884218_345707102882519_2446069589734326272_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=1&_nc_ohc=Ld2qognnbzEQ7kNvgFEI5rC&_nc_gid=37f90efec8bd48b99dd89ad53864d231&edm=AAAAAAABAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&oh=00_AYBq1UZOaoyCaFJ-MIcZGMI46BwsSXAtoYPjmerJIDo3Tw&oe=671580CF&_nc_sid=328259",
+            "username": "0scarvine772"
+          },
+          "viewer_has_liked": false,
+          "edge_liked_by": {
+            "count": 0
+          },
+          "is_restricted_pending": false,
+          "edge_threaded_comments": {
+            "count": 0,
+            "page_info": {
+              "has_next_page": false,
+              "end_cursor": null
+            },
+            "edges": []
+          }
+        }
+      }
+    ]
+  },
+  "edge_media_to_hoisted_comment": {
+    "edges": []
+  },
+  "edge_media_preview_comment": {
+    "count": 135,
+    "edges": []
+  },
+  "comments_disabled": false,
+  "commenting_disabled_for_viewer": false,
+  "taken_at_timestamp": 1688045381,
+  "edge_media_preview_like": {
+    "count": 5355,
+    "edges": []
+  },
+  "edge_media_to_sponsor_user": {
+    "edges": []
+  },
+  "is_affiliate": false,
+  "is_paid_partnership": false,
+  "location": null,
+  "nft_asset_info": null,
+  "viewer_has_liked": false,
+  "viewer_has_saved": false,
+  "viewer_has_saved_to_collection": false,
+  "viewer_in_photo_of_you": false,
+  "viewer_can_reshare": true,
+  "is_ad": false,
+  "edge_web_media_to_related_media": {
+    "edges": []
+  },
+  "coauthor_producers": [],
+  "pinned_for_users": []
+}
