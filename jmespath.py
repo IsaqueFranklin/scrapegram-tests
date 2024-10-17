@@ -1,7 +1,7 @@
 import jmespath
 from typing import Dict
 
-def parse_user(data: Ditch) -> Ditch:
+def parse_post(data: Dict) -> Dict:
     print("parsing post data {}", data['xdt_shortcode_media'])
     result = jmespath.search("""{
         id: id,
